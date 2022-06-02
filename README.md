@@ -1,4 +1,4 @@
-This repository serves as an example to enable tracing for an App Runner service using AWS Copilot CLI. This README is only a short summary of how to deploy the application. For more, please read the [blog post here](https://github.com/Lou1415926/apprunner-xray-example)!
+This repository serves as an example to enable tracing for an App Runner service using AWS Copilot CLI. This README is only a short summary of how to deploy the application. For more, please read the [blog post here](https://aws.amazon.com/blogs/containers/enabling-aws-x-ray-tracing-for-aws-app-runner-service-using-aws-copilot-cli/)!
 
 ### 1. Deploy your application
 ```bash
