@@ -37,8 +37,8 @@ memory: 2048
 
 # Optional fields for more advanced use-cases.
 #
-# variables:                    # Pass environment variables as key value pairs.
-  # LOG_LEVEL: info
+variables:                    # Pass environment variables as key value pairs.
+  OTEL_RESOURCE_ATTRIBUTES: "service.name=movies_app_test_api_svc"
 #
 # tags:                         # Pass tags as key value pairs.
 #   project: project-name
